@@ -90656,7 +90656,7 @@ A.a28.prototype={
 $1(a){B.b.T(a.gcZ(),new A.a27(this.a))},
 $S:9}
 A.a27.prototype={
-$1(a){var s=a.de(0),r=this.a.ch,q=A.b([s.h(0,"name"),s.h(0,"location"),s.h(0,"contact"),s.h(0,"i_am"),s.h(0,"ministry_name"),s.h(0,"ministry_detail"),s.h(0,"ministry_started")],t.s),p=r.av$
+$1(a){var s=a.de(0),r=this.a.ch,q=A.b([s.h(0,"name"),s.h(0,"location"),s.h(0,"contact"),s.h(0,"i_am"),s.h(0,"church_name"),s.h(0,"church_address"),s.h(0,"current_profession"),s.h(0,"ministry_started")],t.s),p=r.av$
 p===$&&A.a()
 J.bs(p,q)
 r.b1$.bG(r.gk(0))},
@@ -90665,7 +90665,7 @@ A.a24.prototype={
 $1(a){B.b.T(a.gcZ(),new A.a23(this.a))},
 $S:9}
 A.a23.prototype={
-$1(a){var s=a.de(0),r=this.a.ch,q=A.b([s.h(0,"name"),s.h(0,"location"),s.h(0,"contact"),s.h(0,"gender"),s.h(0,"education"),s.h(0,"reason")],t.s),p=r.av$
+$1(a){var s=a.de(0),r=this.a.ch,q=A.b([s.h(0,"name"),s.h(0,"location"),s.h(0,"contact"),s.h(0,"birth_date"),s.h(0,"gender"),s.h(0,"education"),s.h(0,"reason")],t.s),p=r.av$
 p===$&&A.a()
 J.bs(p,q)
 r.b1$.bG(r.gk(0))},
@@ -90836,7 +90836,7 @@ A.a2k.prototype={
 $1(a){B.b.T(a.gcZ(),new A.a2j(this.a))},
 $S:9}
 A.a2j.prototype={
-$1(a){var s=a.de(0),r=this.a.ch,q=A.b([s.h(0,"name"),s.h(0,"location"),s.h(0,"contact"),s.h(0,"appointment"),s.h(0,"date")],t.s),p=r.av$
+$1(a){var s=a.de(0),r=this.a.ch,q=A.b([s.h(0,"name"),s.h(0,"location"),s.h(0,"contact"),s.h(0,"whatsapp"),s.h(0,"appointment"),s.h(0,"date")],t.s),p=r.av$
 p===$&&A.a()
 J.bs(p,q)
 r.b1$.bG(r.gk(0))},
@@ -91868,7 +91868,7 @@ if($.cI.ab(0,m.eb(0,A.bc(n),q))){o=$.b4
 o=(o==null?$.b4=B.U:o).hj(0,q,n)}else{m=t.s
 s=t.rj
 r=t.Wo
-r=new A.yx(A.b([A.b(["Full Name","Location","Contact Number","Age","Profession"],m),A.b(["Full Name","Address","Contact Number","I am a","Ministry Name","Ministry Details","Ministry started Date"],m),A.b(["Full Name","Address","Contact Number","Gender","Education","Reason to pursue Bible college"],m),A.b(["Full Name","Contact Number",p,"Business Name","Industry"],m),A.b(["Full Name","Contact Number",p,"Gender","Attending Church Since"],m),A.b(["Full Name","Profession","Speciality","Contact Number","Working Organization"],m),A.b(["Full Name","Location","Contact Number","Gender","Prayer  Slot Preference"],m)],s),A.D4(0),A.oq(A.b([],s),t.yp),A.b([],t.EH),A.ec(q,q,q,t.X,t.xW),new A.eT(r),new A.eT(r),!1,!1)
+r=new A.yx(A.b([A.b(["Full Name","Location","Contact Number","Age","Profession"],m),A.b(["Full Name","Address","Contact Number","I am a","Church Name","Church Address","Current Profession","Ministry started Date"],m),A.b(["Full Name","Address","Contact Number","Age","Gender","Education","Reason to pursue Bible college"],m),A.b(["Full Name","Contact Number",p,"Business Name","Industry"],m),A.b(["Full Name","Contact Number",p,"Gender","Attending Church Since"],m),A.b(["Full Name","Profession","Speciality","Contact Number","Working Organization"],m),A.b(["Full Name","Location","Contact Number","Gender","Prayer  Slot Preference"],m)],s),A.D4(0),A.oq(A.b([],s),t.yp),A.b([],t.EH),A.ec(q,q,q,t.X,t.xW),new A.eT(r),new A.eT(r),!1,!1)
 r.ni()
 n=A.ju(o,r,n)
 o=n}return new A.SH(o)}}
@@ -91956,7 +91956,7 @@ if($.cI.ab(0,m.eb(0,A.bc(n),q))){o=$.b4
 o=(o==null?$.b4=B.U:o).hj(0,q,n)}else{m=t.s
 s=t.rj
 r=t.Wo
-r=new A.yz(A.b([A.b(["Full Name","Location","Contact Number","Prayer Request","Upload File"],m),A.b(["Full Name","Location","Contact Number","Testimony Details","Upload File"],m),A.b(["Full Name","Location","Contact Number","Visit requested for"],m),A.b(["Full Name","Contact Number","Counseling Requested For"],m),A.b(["Full Name","Contact Number","Suggestions/Feedback"],m),A.b(["Full Name","Location","Contact Number","Reason for Appointment requested","Preferred Date"],m),A.b(["Full Name","Contact Number","Child's Name","Gender",p],m),A.b(["Full Name",p,"Contact Number","Volunteering Area of Interest","Profession","Volunteer Type"],m)],s),A.D4(0),A.oq(A.b([],s),t.yp),A.b([],t.EH),A.ec(q,q,q,t.X,t.xW),new A.eT(r),new A.eT(r),!1,!1)
+r=new A.yz(A.b([A.b(["Full Name","Location","Contact Number","Prayer Request","Upload File"],m),A.b(["Full Name","Location","Contact Number","Testimony Details","Upload File"],m),A.b(["Full Name","Location","Contact Number","Visit requested for"],m),A.b(["Full Name","Contact Number","Counseling Requested For"],m),A.b(["Full Name","Contact Number","Suggestions/Feedback"],m),A.b(["Full Name","Location","Contact Number","WhatsApp","Reason for Appointment requested","Preferred Date"],m),A.b(["Full Name","Contact Number","Child's Name","Gender",p],m),A.b(["Full Name",p,"Contact Number","Volunteering Area of Interest","Profession","Volunteer Type"],m)],s),A.D4(0),A.oq(A.b([],s),t.yp),A.b([],t.EH),A.ec(q,q,q,t.X,t.xW),new A.eT(r),new A.eT(r),!1,!1)
 r.ni()
 n=A.ju(o,r,n)
 o=n}return new A.SI(o)}}
@@ -92295,7 +92295,7 @@ $1(a){return A.jV("Password",a)},
 $S:21}
 A.at2.prototype={
 $0(){var s,r=null,q=this.a
-if(q.d.gM().jp())if(q.e.a.a==="admin"&&q.f.a.a==="admin")A.aRH($.bO(),"/main",t.z)
+if(q.d.gM().jp())if(q.e.a.a==="pjspaulministry@gmail.com"&&q.f.a.a==="PjsP@u1")A.aRH($.bO(),"/main",t.z)
 else{s=A.aIm(r,r,r,B.DW,r,B.T,r,A.b9("Invalid Credential!",r,r,r,r,r,r,r),r,B.F9,r,r,r,r,r,r,r,r,r)
 this.b.a7(t.Pu).f.a_A(s)}},
 $S:0}
